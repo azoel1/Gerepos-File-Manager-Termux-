@@ -1,0 +1,17 @@
+{
+  "name": "gerepost-filemanager",
+  "version": "1.0.0",
+  "description": "Мощный файловый менеджер для Termux",
+  "main": "server.js",
+  "bin": {
+    "filemanager": "./server.js"
+  },
+  "keywords": ["termux", "filemanager", "cli", "gerepost"],
+  "author": "Gerepost",
+  "license": "MIT",
+  "engines": {
+    "node": ">=10.0.0"
+  },
+  "preferGlobal": true
+}
+
